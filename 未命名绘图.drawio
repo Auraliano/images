@@ -51,7 +51,7 @@
           <mxGeometry x="313" y="380" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9COWVb0G5LZOd5w6cGcF-6" value="升级按钮" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="544" y="200" width="51" height="20" as="geometry" />
+          <mxGeometry x="558" y="200" width="51" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9COWVb0G5LZOd5w6cGcF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="9COWVb0G5LZOd5w6cGcF-2" target="9COWVb0G5LZOd5w6cGcF-5">
           <mxGeometry relative="1" as="geometry" />
