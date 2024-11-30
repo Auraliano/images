@@ -92,10 +92,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9COWVb0G5LZOd5w6cGcF-34" value="外部适配" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="80" height="20" as="geometry" />
+          <mxGeometry x="380" y="320" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9COWVb0G5LZOd5w6cGcF-37" value="数据映射" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="243" y="320" width="87" height="20" as="geometry" />
+          <mxGeometry x="243" y="320" width="67" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9COWVb0G5LZOd5w6cGcF-38" value="ID分配器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312" y="320" width="67" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
